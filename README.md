@@ -5,7 +5,7 @@ This Project is still in progress, but this is the beginnings of a Texas Hold'em
 - Can create instances of a Player class
 - Can randomly generate cards
 - Can keep track of the cards in play
-- Has functions for the beginnings of the 3 rounds of the game
+- Has functions for the beginnings of 3 rounds of the game
 - Can keep track of bets
 
 ## How it looks so far:
